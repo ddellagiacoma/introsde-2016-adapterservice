@@ -1,5 +1,7 @@
 # Adapter Service
 
+This service is part of the project described [here](https://github.com/ddellagiacoma/introsde-2017-userinterface).
+
 *	**Bmi:** thanks to external API calculates the BMI of a person through weight, height, age and gender. https://market.mashape.com/nviror/bmi-calculator
 
 *	**Weather:** uses external API to get current weather though coordinates and formats the response. https://market.mashape.com/fyhao/weather-13#weatherdata
